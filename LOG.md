@@ -18,7 +18,8 @@ Day 2 Project: Tip Calculator
 ## Day 3
 *11/24/20*
 
+I had some issues with the nested if loops during the videos, but the project gave me lots of practice. I solved the Leap Year exercise using comparison operators, because I couldn't for the life of me figure out how to make the if statements pass. The love calculator exercise had me stumped for a bit, because I wanted to run count on everything at once instead of making a variable for each. I really loved the project for day 3, the ASCII art was really cool and I used stackoverflow to find out how to add some colour to my game. 
 
 Day 3 Project: Treasure Island
->**status - **
+>**status - COMPLETE**
 
