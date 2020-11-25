@@ -23,3 +23,20 @@ I had some issues with the nested if loops during the videos, but the project ga
 Day 3 Project: Treasure Island
 >**status - COMPLETE**
 
+## Day 4
+*11/25/20*
+
+Honestly, I did a bad job of transferring the concepts this time around. I had most of the ideas in my head, but couldn't for the life of me extrapolate them properly. Will rewatch these videos. Also, this line of code doesn't capture errors anymore because of the list indexing used to grab and print the game pictures - 
+if player >= 3 or player < 0:
+    print("\nThat wasn't a valid choice. You lose.")
+
+Day 4 Project: Rock, Paper, Scissors
+>**status - COMPLETE**
+
+## Day 5
+*11/26/20*
+
+
+
+Day 5 Project: Password Generator
+>**status - **
