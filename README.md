@@ -9,4 +9,4 @@ I'm not sure if I will be publicly committing on Twitter just yet, but I will be
 ## Contents 
 - **[Track my daily progress](https://github.com/gervanna/100daysofcode/blob/main/LOG.md)**
 - Official rules for [#100DaysOfCode](https://www.100daysofcode.com).
-[Udemy course link](https://www.udemy.com/course/100-days-of-code/).
+- [Udemy course link](https://www.udemy.com/course/100-days-of-code/).
