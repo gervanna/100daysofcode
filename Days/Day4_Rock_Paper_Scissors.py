@@ -28,29 +28,23 @@ scissors = '''
 game_choices = [rock, paper, scissors]
 
 player = int(input("Make a choice: Type 0 for ROCK, 1 for PAPER or 2 for SCISSORS...\n"))
-print(game_choices[player])
+if player >= 0 and player <= 2:
+    print(game_choices[player])
+    computer = random.randint(0, 2)
+    print(f"\nComputer chose:\n{game_choices[computer]}")
 
-computer = random.randint(0, 2)
-print(f"\nComputer chose:\n{game_choices[computer]}")
-
-if player >= 3 or player < 0:
+    if player == computer:
+        print("\nIt's a draw.")
+    elif player == 0 and computer == 2:
+        print("\nYou win!")
+    elif computer == 0 and player == 2:
+        print("\nYou lose...")
+    elif computer > player:
+        print("\nYou lose...")
+    elif player > computer:
+        print("\nYou win!")
+else:
     print("\nThat wasn't a valid choice. You lose.")
-elif player == computer:
-    print("\nIt's a draw.")
-elif player == 0 and computer == 2:
-    print("\nYou win!")
-elif computer == 0 and player == 2:
-    print("\nYou lose...")
-elif computer > player:
-    print("\nYou lose...")
-elif player > computer:
-    print("\nYou win!")
-
-
-
-
-
-
 
 
 '''

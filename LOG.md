@@ -30,6 +30,8 @@ Honestly, I did a bad job of transferring the concepts this time around. I had m
 if player >= 3 or player < 0:
     print("\nThat wasn't a valid choice. You lose.")
 
+*UPDATE* - figured out the issue with some help after brainstorming, it was the placing of if statement and needed to change the "or" to "and". Who knew RPS was this challenging? lol
+
 Day 4 Project: Rock, Paper, Scissors
 >**status - COMPLETE**
 
