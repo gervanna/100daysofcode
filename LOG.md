@@ -46,7 +46,7 @@ Day 5 Project: Password Generator
 ## Day 6
 *11/27/20*
 
+The robot maze project has proved to me that I have no sense of direction. There are definitely some things I will review but this was fun even when the robot just moved in circles. I will revisit this project to fix the issue of if the robot gets stuck in an infinite loop.
 
-
-Day 6 Project: 
->**status - **
+Day 6 Project: Escaping the Maze
+>**status - COMPLETE**
