@@ -36,9 +36,17 @@ Day 4 Project: Rock, Paper, Scissors
 >**status - COMPLETE**
 
 ## Day 5
-*11/26/20*
+*11/26/20 - 11/27/20*
 
-
+Finding a way to come up with my own len and sum was challenging, but after I did that exercise the max coding activity was pretty neat. The password generator project was awesome! This took longer than the one day, cuz you know, life. But I'm happy with my outcomes.
 
 Day 5 Project: Password Generator
+>**status - COMPLETE**
+
+## Day 6
+*11/27/20*
+
+
+
+Day 6 Project: 
 >**status - **
