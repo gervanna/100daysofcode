@@ -50,3 +50,11 @@ The robot maze project has proved to me that I have no sense of direction. There
 
 Day 6 Project: Escaping the Maze
 >**status - COMPLETE**
+
+## Day 7
+*11/28/20*
+
+Ask me how many times I got frustrated today while doing this and I couldn't give you a solid number. Abstracting code ideas is very confusing for me sometimes. I'll have the idea of how it should be done but the positional arguments fail me sometimes. I also learned about the *requests* module today in order to make a request to a webpage and print the response. I used this module to get a word list to be used with the Hangman game.
+
+Day 7 Project: Hangman
+>**status - COMPLETE**
