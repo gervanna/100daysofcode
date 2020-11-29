@@ -14,7 +14,6 @@ lives = 6
 
 print(logo)
 print("\n\t\tWelcome to Hangman.\n\nGuess letters one by one to solve the word.\nYou win if you guess the word. You lose if the character gets hung. GOOD LUCK!\n\n")
-print(f'Pssst, the solution is {chosen_word}.')
 
 display = [] #empty list to store blanks
 for y in range(x): #loops through length to add as many blanks as letters in word
