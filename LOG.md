@@ -58,3 +58,9 @@ Ask me how many times I got frustrated today while doing this and I couldn't giv
 
 Day 7 Project: Hangman
 >**status - COMPLETE**
+
+## Day 8##
+*11/29/20*
+
+Day 8 Project: Caesar Cipher
+>**status - COMPLETE**
