@@ -22,7 +22,7 @@ while replay == True:
 
     caesar(msg = text, shift_num = shift, crypt_direction = direction)
 
-    run_again = input("Type 'yes' if you want to go again. Otherwise type 'no' ").lower
+    run_again = input("Type 'yes' if you want to go again. Otherwise type 'no' ").lower()
     if run_again == 'no':
-        replay == False
+        replay = False
         print("\nGood-bye..")
