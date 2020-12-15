@@ -76,5 +76,16 @@ Project: Secret Auction
 
 Fixed the indefinite loop issue with my Day 8 project, I was missing parentheses. I was doing a Python course with ITexperience and I need to do a project for that. Decided today that I will modify one of these projects I have done and use Tkinter to develop it further.
 
-Project: 
+Project: GUI w/Tkinter
+>**status - COMPLETE**
+
+## Days 11 - 22
+*12/02/20 - 12/13/20
+
+I spent the past twelve days learning about and working with Tkinter in order to create a GUI for my Rock Paper Scissors game. Check out the **[repo](https://github.com/gervanna/RockPaperScissors-with-Tkinter).**
+
+## Day 23
+*12/14/20*
+
+
 >**status - **
