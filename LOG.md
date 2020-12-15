@@ -80,12 +80,13 @@ Project: GUI w/Tkinter
 >**status - COMPLETE**
 
 ## Days 11 - 22
-*12/02/20 - 12/13/20
+*12/02/20 - 12/13/20*
 
 I spent the past twelve days learning about and working with Tkinter in order to create a GUI for my Rock Paper Scissors game. Check out the **[repo](https://github.com/gervanna/RockPaperScissors-with-Tkinter).**
 
 ## Day 23
 *12/14/20*
 
+Completed the calculator project based on Angela's specifications then researched how to do validation based on inputs to catch if user inputted strings or keys in not in dictionary so that the program wouldn't throw an error and just break. Used try/except to catch these errors and print messages for the user. Also put each section in while loops so the except could continue and loop back after an error.
 
->**status - **
+>**status - COMPLETE**
