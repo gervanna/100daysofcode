@@ -71,4 +71,3 @@ def calculator():
     print("\nGoodbye.")
 
 calculator()
-
