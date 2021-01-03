@@ -2,16 +2,17 @@ import os
 from calc_art import logo
 
 def add(n1, n2):
-  return n1 + n2
+    return n1 + n2
 
 def subtract(n1, n2):
-  return n1 - n2
+    return n1 - n2
 
 def multiply(n1, n2):
-  return n1 * n2
+    return n1 * n2
 
 def divide(n1, n2):
-  return n1 / n2
+    return n1 / n2
+  
 
 operations = {"+" : add, 
 "-" : subtract, 
@@ -50,11 +51,16 @@ def calculator():
         while unvalidated_second_num:
             try:
                 num2 = float(input("\nType the next number? "))
+                if operation_sign == "/" and num2 == 0:
+                    raise ZeroDivisionError #throw an error
                 unvalidated_second_num = False
-            except:
+            except ValueError:
                 print("That's not a number.")
                 continue
-
+            except ZeroDivisionError:
+                print("Cannot divide by Zero.")
+                continue 
+        
         calc = operations[operation_sign]
         answer = calc(num1, num2)
         print(f"\n{num1} {operation_sign} {num2} = {answer}")

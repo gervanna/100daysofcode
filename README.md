@@ -4,7 +4,7 @@
 
 I'm doing the 100 Days of Code - The Complete Python Pro Bootcamp for 2020 with Udemy by Dr. Angela Yu. 
 
-I'm not sure if I will be publicly committing on Twitter just yet, but I will be trying my best to complete all projects, log my progress and finish my 100 days by March 2, 2021.
+I'm not sure if I will be publicly committing on Twitter just yet, but I will be trying my best to complete all projects, log my progress and finish my 100 days by March 2021.
 
 ## Contents 
 - **[Track my daily progress](https://github.com/gervanna/100daysofcode/blob/main/LOG.md)**

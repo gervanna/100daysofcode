@@ -90,3 +90,11 @@ I spent the past twelve days learning about and working with Tkinter in order to
 Completed the calculator project based on Angela's specifications then researched how to do validation based on inputs to catch if user inputted strings or keys in not in dictionary so that the program wouldn't throw an error and just break. Used try/except to catch these errors and print messages for the user. Also put each section in while loops so the except could continue and loop back after an error.
 
 >**status - COMPLETE**
+
+## Fell off The Wagon (FoTW) - restart #1
+*01/02/21*
+
+I've lost track of which day I'm on honestly, because I've gotten so frustrated with the code and not being to solve problems and use hints given succesfully. I'm taking a step back but not stopping like I have for the past few weeks. I listened to ["Overwhelmed with programming"](https://youtu.be/5CmjW_8ief4) by Scott Hanselman. Read about [Namespaces](https://code.tutsplus.com/tutorials/what-are-python-namespaces-and-why-are-they-needed--cms-28598) and started reading the book, ["Your first Year in Code" by Isaac Lyman et al.](https://leanpub.com/firstyearincode)
+
+## FoTW - restart #2
+*01/03/21*
