@@ -94,7 +94,9 @@ Completed the calculator project based on Angela's specifications then researche
 ## Fell off The Wagon (FoTW) - restart #1
 *01/02/21*
 
-I've lost track of which day I'm on honestly, because I've gotten so frustrated with the code and not being to solve problems and use hints given succesfully. I'm taking a step back but not stopping like I have for the past few weeks. I listened to ["Overwhelmed with programming"](https://youtu.be/5CmjW_8ief4) by Scott Hanselman. Read about [Namespaces](https://code.tutsplus.com/tutorials/what-are-python-namespaces-and-why-are-they-needed--cms-28598) and started reading the book, ["Your first Year in Code" by Isaac Lyman et al.](https://leanpub.com/firstyearincode)
+I've lost track of which day I'm on honestly, because I've gotten so frustrated with the code and not being able to solve problems and use hints given successfully. I'm taking a step back but not stopping like I have for the past few weeks. I listened to ["Overwhelmed with programming"](https://youtu.be/5CmjW_8ief4) by Scott Hanselman. Read about [Namespaces](https://code.tutsplus.com/tutorials/what-are-python-namespaces-and-why-are-they-needed--cms-28598) and started reading the book, ["Your first Year in Code" by Isaac Lyman et al.](https://leanpub.com/firstyearincode)
 
 ## FoTW - restart #2
 *01/03/21*
+
+The #explainlikeimfive on dev.to is pretty neat. I pair-coded and practiced some flowchart making and translated a lottery game flowchart into python code. Read chapters 5 & 6 of ["Your first Year in Code" by Isaac Lyman et al.](https://leanpub.com/firstyearincode) and started a Cybersecurity Fundamentals course with IBM skills build.
