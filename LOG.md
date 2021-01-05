@@ -100,3 +100,8 @@ I've lost track of which day I'm on honestly, because I've gotten so frustrated 
 *01/03/21*
 
 The #explainlikeimfive on dev.to is pretty neat. I pair-coded and practiced some flowchart making and translated a lottery game flowchart into python code. Read chapters 5 & 6 of ["Your first Year in Code" by Isaac Lyman et al.](https://leanpub.com/firstyearincode) and started a Cybersecurity Fundamentals course with IBM skills build.
+
+## FoTW - #3
+*01/04/21*
+
+Finished module 1 of IBM skills course. Used flow chart to write the code for a 'Password Chooser' to check for specific length of characters, capitals, numbers and symbols etc. Read chapters 7 & 8 of Your 1st Year in Code. 
