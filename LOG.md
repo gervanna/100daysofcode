@@ -105,3 +105,13 @@ The #explainlikeimfive on dev.to is pretty neat. I pair-coded and practiced some
 *01/04/21*
 
 Finished module 1 of IBM skills course. Used flow chart to write the code for a 'Password Chooser' to check for specific length of characters, capitals, numbers and symbols etc. Read chapters 7 & 8 of Your 1st Year in Code. 
+
+## FoTW - #4
+*01/05/21*
+
+Started module 2 of IBM skills course. Was looking at the [Web Dev. Roadmap](https://github.com/kamranahmedse/developer-roadmap) on Github, though I doubt Web Dev. is the route I want to pursue, it was pretty interesting. Officially decided to take a pause on Angela Yu's Udemy course. For the mean time, I'm going to spend some time on translating flowcharts and building small things to practice my understanding what a project requires and the whole idea of flow control and logic. Read chapters 9 & 17 of Your 1st Year in Code, skipped a few in between being that the book isn't chronological in the topics it explores.  
+
+## FoTW - #5
+*01/06/21*
+
+Working through module 2 of IBM skills course. Started working on another flow chart today. The goal for the next 4 - 6 weeks is reading more content and I want to dive into [Automate the Boring Stuff with Python](https://automatetheboringstuff.com). 
