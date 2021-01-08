@@ -114,4 +114,9 @@ Started module 2 of IBM skills course. Was looking at the [Web Dev. Roadmap](htt
 ## FoTW - #5
 *01/06/21*
 
-Working through module 2 of IBM skills course. Started working on another flow chart today. The goal for the next 4 - 6 weeks is reading more content and I want to dive into [Automate the Boring Stuff with Python](https://automatetheboringstuff.com). 
+Working through module 2 of IBM skills course. Started working on another flow chart today. The goal for the next 4 - 6 weeks is reading more content and I want to dive into [Automate the Boring Stuff with Python](https://automatetheboringstuff.com).
+
+## FoTW - #6
+*01/07/21*
+
+Finished module 2 of IBM skills course. You'd think that since I made a Hangman game on day 7, ages ago, I'd be able to do one now on my own. 
