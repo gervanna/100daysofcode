@@ -120,3 +120,8 @@ Working through module 2 of IBM skills course. Started working on another flow c
 *01/07/21*
 
 Finished module 2 of IBM skills course. You'd think that since I made a Hangman game on day 7, ages ago, I'd be able to do one now on my own. 
+
+## FoTW - #7
+*01/08/21*
+
+Finished module 3 of IBM skills course. Read an article - ["Identity-Based Habits: How to Actually Stick to Your Goals This Year"](https://jamesclear.com/identity-based-habits) by James Clear. Found out about an awesome repository [karan/Projects](https://github.com/karan/Projects).
