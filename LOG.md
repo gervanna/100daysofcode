@@ -125,3 +125,8 @@ Finished module 2 of IBM skills course. You'd think that since I made a Hangman 
 *01/08/21*
 
 Finished module 3 of IBM skills course. Read an article - ["Identity-Based Habits: How to Actually Stick to Your Goals This Year"](https://jamesclear.com/identity-based-habits) by James Clear. Found out about an awesome repository [karan/Projects](https://github.com/karan/Projects).
+
+## FoTW - #8
+*01/09/21*
+
+Finished the Cybersecurity Fundamentals and started one called "Working in a Digital World: Professional Skills". 
