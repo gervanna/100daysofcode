@@ -130,3 +130,16 @@ Finished module 3 of IBM skills course. Read an article - ["Identity-Based Habit
 *01/09/21*
 
 Finished the Cybersecurity Fundamentals and started one called "Working in a Digital World: Professional Skills". 
+
+## FoTW - #9
+*01/10/21*
+
+Going through the digital world course. Not a lot of coding done to be honest.
+
+## FoTW - #10
+*01/11/21*
+
+Pair coding to finish that Hangman game. Figured out I could've used a function for parts of the code, so implemented that. Then thought of modules re grabbing words from requests and the code is small so it didn't need that adjustment, but messed around with creating a module and using it inside the code for practice. Used docstrings to clarify what functions did what.
+
+## FoTW - #11
+*01/12/21*
