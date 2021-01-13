@@ -143,3 +143,5 @@ Pair coding to finish that Hangman game. Figured out I could've used a function 
 
 ## FoTW - #11
 *01/12/21*
+
+Turned the Adv. Lottery flowchart in python. It was good. Found that the "shorter" way to do a thing is probably not the easiest or most clear way. 
