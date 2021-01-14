@@ -145,3 +145,8 @@ Pair coding to finish that Hangman game. Figured out I could've used a function 
 *01/12/21*
 
 Turned the Adv. Lottery flowchart into python code. It was good. Found that the "shorter" way to do a thing is probably not the easiest or most clear way. 
+
+## FoTW - #12
+*01/13/21*
+
+Finished module 1 of the digital world course. No coding today.
