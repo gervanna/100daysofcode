@@ -150,3 +150,8 @@ Turned the Adv. Lottery flowchart into python code. It was good. Found that the 
 *01/13/21*
 
 Finished module 1 of the digital world course. No coding today.
+
+## FoTW - #13
+*01/14/21*
+
+Started [Automate the Boring Stuff with Python](https://automatetheboringstuff.com).
