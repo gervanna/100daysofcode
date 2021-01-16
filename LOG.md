@@ -155,3 +155,8 @@ Finished module 1 of the digital world course. No coding today.
 *01/14/21*
 
 Started [Automate the Boring Stuff with Python](https://automatetheboringstuff.com).
+
+## FoTW - #14
+*01/15/21*
+
+Finished sections 2 & 3 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com).
