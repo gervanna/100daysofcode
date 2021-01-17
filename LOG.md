@@ -160,3 +160,8 @@ Started [Automate the Boring Stuff with Python](https://automatetheboringstuff.c
 *01/15/21*
 
 Finished sections 2 & 3 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com).
+
+## FoTW - #15
+*01/16/21*
+
+Finished sections 4 & 5 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com). Made a program with python, to run the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture). Finished module 2, Collaborate Effectively, of the digital world course. 
