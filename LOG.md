@@ -165,3 +165,9 @@ Finished sections 2 & 3 of [Automate the Boring Stuff with Python](https://autom
 *01/16/21*
 
 Finished sections 4 & 5 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com). Made a program with python, to run the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture). Finished module 2, Collaborate Effectively, of the digital world course. 
+
+## FoTW - #16
+*01/17/21*
+
+Finished section 6 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com).
+Completed the Comma Code program. Unfinished Coin Flip Streaks program.
