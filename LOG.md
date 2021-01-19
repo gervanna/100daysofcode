@@ -171,3 +171,8 @@ Finished sections 4 & 5 of [Automate the Boring Stuff with Python](https://autom
 
 Finished section 6 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com).
 Completed the Comma Code program. Unfinished Coin Flip Streaks program.
+
+## FoTW - #17
+*01/18/21*
+
+Still unable to finish the Coin Flip Streaks program.
