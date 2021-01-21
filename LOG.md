@@ -159,20 +159,30 @@ Started [Automate the Boring Stuff with Python](https://automatetheboringstuff.c
 ## FoTW - #14
 *01/15/21*
 
-Finished sections 2 & 3 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com).
+Finished watching sections 2 & 3 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com).
 
 ## FoTW - #15
 *01/16/21*
 
-Finished sections 4 & 5 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com). Made a program with python, to run the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture). Finished module 2, Collaborate Effectively, of the digital world course. 
+Finished watching sections 4 & 5 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com). Made a program with python, to run the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture). Finished module 2, Collaborate Effectively, of the digital world course. 
 
 ## FoTW - #16
 *01/17/21*
 
-Finished section 6 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com).
+Finished watching section 6 of [Automate the Boring Stuff with Python](https://automatetheboringstuff.com).
 Completed the Comma Code program. Unfinished Coin Flip Streaks program.
 
 ## FoTW - #17
 *01/18/21*
 
 Still unable to finish the Coin Flip Streaks program.
+
+## FoTW - #18
+*01/19/21*
+
+Finished watching section 7.
+
+## FoTW - #19
+*01/20/21*
+
+Read a couple chapters of ["Your first Year in Code" by Isaac Lyman et al.](https://leanpub.com/firstyearincode). Started module 3 of the digital world course. 
