@@ -186,3 +186,12 @@ Finished watching section 7.
 *01/20/21*
 
 Read a couple chapters of ["Your first Year in Code" by Isaac Lyman et al.](https://leanpub.com/firstyearincode). Started module 3 of the digital world course. 
+
+## FoTW - #20-23
+*01/21-24/21*
+
+Break
+
+## FoTW - #24
+*01/25/21*
+
