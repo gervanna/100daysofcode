@@ -187,11 +187,12 @@ Finished watching section 7.
 
 Read a couple chapters of ["Your first Year in Code" by Isaac Lyman et al.](https://leanpub.com/firstyearincode). Started module 3 of the digital world course. 
 
-## FoTW - #20-23
-*01/21-24/21*
+## FoTW - #20-30
+*01/21-31/21*
 
 Break
 
-## FoTW - #24
-*01/25/21*
+## FoTW - #31
+*02/01/21*
 
+Worked on two Edabit challenges. It's not much in the grand scope of coding however. 

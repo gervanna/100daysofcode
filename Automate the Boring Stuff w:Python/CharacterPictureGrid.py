@@ -14,4 +14,6 @@ for x in range(len(grid[0])): #gets length of one of the lists, ie., columns
         print(grid[y][x], end="") #flip 
     print("")
 
+    
+
 
