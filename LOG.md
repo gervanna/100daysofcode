@@ -196,3 +196,8 @@ Break
 *02/01/21*
 
 Worked on two Edabit challenges. It's not much in the grand scope of coding however. 
+
+## FoTW - #32
+*02/02/21*
+
+Worked on a couple Edabit challenges.
