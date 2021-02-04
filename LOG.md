@@ -201,3 +201,8 @@ Worked on two Edabit challenges. It's not much in the grand scope of coding howe
 *02/02/21*
 
 Worked on a couple Edabit challenges.
+
+## FoTW - #33
+*02/03/21*
+
+More Edabit challenges

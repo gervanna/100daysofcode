@@ -7,7 +7,7 @@ eg2_txt = "mississippi"
 def alphabet_soup(some_txt):
     print(some_txt)
     alphabetical = " ".join(sorted(some_txt))
-    print (alphabetical)
+    print(alphabetical)
     return alphabetical
 alphabet_soup(eg1_txt)
 alphabet_soup(eg2_txt)
