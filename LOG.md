@@ -205,4 +205,9 @@ Worked on a couple Edabit challenges.
 ## FoTW - #33
 *02/03/21*
 
-More Edabit challenges
+More Edabit challenges. 
+
+## FoTW - #34
+*02/04/21*
+
+More Edabit challenges: harshad numbers, international greeting. Read up on dictionaries again. Trying to figure out how to get the first tuesday of every month from the datetime module.

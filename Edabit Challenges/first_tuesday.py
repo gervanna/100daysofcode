@@ -3,5 +3,9 @@
 
 import datetime
 
-def game_releases(year, month):
+current_date = datetime.datetime.now()
+print(current_date.year, current_date.month, current_date.strftime("%A"))
+
+
+#def game_releases(year, month):
     
