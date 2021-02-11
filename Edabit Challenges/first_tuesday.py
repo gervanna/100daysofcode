@@ -3,7 +3,7 @@
 
 import datetime
 
-current_date = datetime.datetime.now()
+current_date = datetime.datetime.now(timezone.utc)
 print(current_date.year, current_date.month, current_date.strftime("%A"))
 
 
