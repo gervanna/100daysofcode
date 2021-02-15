@@ -8,8 +8,9 @@
 
 principal = 10000
 interest_rate = 3.5/100
-compounded = 12
 time = 7
 
-acurred_amt = principal * (1 + interest_rate/compounded)**(compounded*time)
+acurred_amt = principal * (1 + interest_rate)**(time)
 print(round(acurred_amt, 2))
+
+# A = P(1 + r/n)nt

@@ -4,3 +4,4 @@
 
 import sys
 
+print("Man's not hot.", file=sys.stderr)

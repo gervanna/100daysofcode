@@ -5,6 +5,3 @@
 import subprocess
 
 subprocess.call(["ls", "-l"])
-
-#WTF is even happening bruh?!
-

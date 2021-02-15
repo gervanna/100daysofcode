@@ -4,9 +4,8 @@
 
 import time
 
-timing = time.time()
+start_time = time.time()
 
-print(time.time() - timing)
+end_time = time.time()
 
-
-#but why??
+print(end_time - start_time)

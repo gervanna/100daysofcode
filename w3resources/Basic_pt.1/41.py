@@ -4,4 +4,7 @@
 
 import os.path
 
-print("Is it a file: " + str(os.path.isfile('39.py')))
+open("39.py", "w")
+print("Is it a file:", (os.path.isfile("39.py")))
+
+#without open you have to use full or relative path to check if file exists

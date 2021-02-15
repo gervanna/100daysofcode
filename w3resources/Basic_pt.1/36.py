@@ -12,7 +12,7 @@ num2 = input("Enter another digit: ")
 try:
     num_int1 = int(num1)
     num_int2 = int(num2)
-    if num_int1 == int and num_int2 == int:
-        print(same_type_add(num_int1, num_int2)) #why not work???
+    if type(num_int1) == int and type(num_int2) == int:
+        print(same_type_add(num_int1, num_int2))
 except:
     print("Next time type a integer bruv.")
