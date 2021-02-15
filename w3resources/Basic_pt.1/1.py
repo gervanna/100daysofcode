@@ -11,4 +11,3 @@ Twinkle, twinkle, little star,
 \tHow I wonder what you are.'''
 
 print(sample_string)
-
