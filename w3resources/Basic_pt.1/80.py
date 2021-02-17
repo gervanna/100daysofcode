@@ -7,8 +7,6 @@
 #A physical world example would be to place two parallel mirrors facing each other. 
 #Any object in between them would be reflected recursively.
 
-
-
 #sys.getrecursionlimit() method is used to find the current recursion limit 
 #of the interpreter. This limit prevents any program from getting into infinite recursion.
 
